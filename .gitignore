@@ -2,7 +2,7 @@
 *.cmd
 *mvnw
 .mvn/
-
+target/
 *.class
 
 ## IntelliJ IDEA ###
